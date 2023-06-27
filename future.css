@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+.future { 
+    display: flex;
+    flex-direction: row;
+}
+
+.main {
+    background-color: black;
+    color: white;
+    height: 460px;
+    width: 680px;
+}
+
+h1 {
+    position: absolute;
+    top: 80px;
+    left: 220px;
+}
+
+p {
+    position: absolute;
+    top: 130px;
+    left: 220px;
+    width: 380px; 
+}
+
+.work {
+    background-color: rgb(81, 153, 153);
+    height: 460px;
+    width: 680px;   
+}
+
+.work img {
+    border-style: none;
+    overflow: none;
+}
+
+.robots {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 260px;
+    left: 230px;
+}

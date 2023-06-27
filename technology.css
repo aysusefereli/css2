@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.technology {
+    font-size: 20px;
+}
+
+.header {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.text {
+    width: 460px;
+}
+
+.container img {
+    position: absolute; 
+    right: 200px;
+    top: 100px;
+}
+
+.news {
+    position: absolute;    
+    left: 200px;
+    top: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
