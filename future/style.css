@@ -33,11 +33,6 @@ p {
     width: 680px;   
 }
 
-.work img {
-    border-style: none;
-    overflow: none;
-}
-
 .robots {
     display: flex;
     flex-direction: row;
